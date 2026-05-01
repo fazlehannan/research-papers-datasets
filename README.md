@@ -1,7 +1,12 @@
 # 📚 Collection of Research Papers  
 
 ### Covering state-of-the-art and cutting-edge research across key areas of Computer Science, including Artificial Intelligence, Cloud Computing, and Cybersecurity.
+## 🔗 Related Repositories  
 
+- 📄 [Research Papers](https://github.com/fazlehannan/research-papers) – research papers  
+- 📘 [Books & Notes](https://github.com/fazlehannan/books-notes) – study books and notes 
+- 📊 [Research Datasets](https://github.com/fazlehannan/research-datasets) – datasets for experiments  
+- 🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics) – tools for research & academic workflow  
 ---
 
 ## 🎯 Purpose  
