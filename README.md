@@ -29,15 +29,6 @@ This repository aims to:
   - [Review & Survey Papers](#review--survey-papers-ai)  
   - [Datasets](#datasets-ai)  
 
-- [Cloud Computing](#-cloud-computing)  
-  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-cloud)  
-  - [Review & Survey Papers](#review--survey-papers-cloud)  
-  - [Datasets](#datasets-cloud)  
-
-- [Cybersecurity](#-cybersecurity)  
-  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-cyber)  
-  - [Review & Survey Papers](#review--survey-papers-cyber)  
-  - [Datasets](#datasets-cyber)  
 
 ---
 
