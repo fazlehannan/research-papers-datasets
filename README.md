@@ -1,15 +1,14 @@
 # 📚 Collection of Research Papers & Datasets  
 
-### Covering state-of-the-art and cutting-edge research across key areas of Computer Science, including Artificial Intelligence, Cloud Computing, and Cybersecurity, along with supporting datasets for experimentation and analysis.
+### Covering state-of-the-art and cutting-edge research across key areas of Computer Science, including Artificial Intelligence, Cloud Computing, and Cybersecurity, along with datasets for experimentation and analysis.
 
 ---
 
 ## 🔗 Related Repositories  
 
-📄 Research Papers – research papers  
-📘 Books & Notes – study books and notes  
-📊 Research Datasets – datasets for experiments  
-🧰 Research Tools – tools for research & academic workflow  
+📄 [Research Papers & Datasets](https://github.com/fazlehannan/research-papers-datasets) – curated research papers and datasets  
+📘 [Books & Notes](https://github.com/fazlehannan/books-notes) – study books and notes  
+🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics) – tools for research & academic workflow  
 
 ---
 
