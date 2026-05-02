@@ -1,36 +1,44 @@
-# 📚 Collection of Research Papers  
+# 📚 Collection of Research Papers & Datasets  
 
-### Covering state-of-the-art and cutting-edge research across key areas of Computer Science, including Artificial Intelligence, Cloud Computing, and Cybersecurity.
+### Covering state-of-the-art and cutting-edge research across key areas of Computer Science, including Artificial Intelligence, Cloud Computing, and Cybersecurity, along with supporting datasets for experimentation and analysis.
+
+---
+
 ## 🔗 Related Repositories  
 
-- 📄 [Research Papers](https://github.com/fazlehannan/research-papers) – research papers  
-- 📘 [Books & Notes](https://github.com/fazlehannan/books-notes) – study books and notes 
-- 📊 [Research Datasets](https://github.com/fazlehannan/research-datasets) – datasets for experiments  
-- 🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics) – tools for research & academic workflow  
+📄 Research Papers – research papers  
+📘 Books & Notes – study books and notes  
+📊 Research Datasets – datasets for experiments  
+🧰 Research Tools – tools for research & academic workflow  
+
 ---
 
 ## 🎯 Purpose  
 
 This repository aims to:
-- Organize important research papers  
+- Organize important research papers and datasets  
 - Provide structured access to different domains  
 - Support academic learning and PhD research preparation  
+- Enable experimentation through relevant datasets  
 
 ---
 
 ## 📑 Table of Contents  
 
-- [Artificial Intelligence](#-artificial-intelligence)  
-  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-ai)  
-  - [Review & Survey Papers](#review--survey-papers-ai)  
+- Artificial Intelligence  
+  - State-of-the-Art Research Papers  
+  - Review & Survey Papers  
+  - Datasets  
 
-- [Cloud Computing](#-cloud-computing)  
-  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-cloud)  
-  - [Review & Survey Papers](#review--survey-papers-cloud)  
+- Cloud Computing  
+  - State-of-the-Art Research Papers  
+  - Review & Survey Papers  
+  - Datasets  
 
-- [Cyber Security](#-cyber-security)  
-  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-cyber)  
-  - [Review & Survey Papers](#review--survey-papers-cyber)  
+- Cyber Security  
+  - State-of-the-Art Research Papers  
+  - Review & Survey Papers  
+  - Datasets  
 
 ---
 
@@ -42,29 +50,22 @@ This repository aims to:
 ### Review & Survey Papers (AI)  
 - *Add papers here*  
 
----
+### Datasets (AI)  
+- *Add datasets here*  
 
-## ☁️ Cloud Computing  
-
-### State-of-the-Art Research Papers (Cloud)  
-- *Add papers here*  
-
-### Review & Survey Papers (Cloud)  
-- *Add papers here*  
-
----
-
-## 🔐 Cyber Security  
-
-### State-of-the-Art Research Papers (Cyber)  
-- *Add papers here*  
-
-### Review & Survey Papers (Cyber)  
-- *Add papers here*  
 
 ---
 
 ## ⚠️ Disclaimer  
 
-This repository does not host copyrighted papers.  
-Only summaries, notes, and links to official sources are included.
+This repository is intended for educational and research purposes only.  
+
+- It does not host or distribute copyrighted research papers.  
+- Only links to official sources are provided.  
+- Datasets are not hosted unless they are publicly available.  
+- All datasets and research papers belong to their respective authors and sources.  
+- Inclusion does not imply endorsement or ownership.  
+
+Users are responsible for reviewing licensing terms and usage policies before using any dataset or paper.  
+
+# If any content requires correction or removal, please feel free to contact.
