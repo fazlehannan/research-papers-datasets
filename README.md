@@ -24,32 +24,35 @@ This repository aims to:
 
 ## 📑 Table of Contents  
 
-- Artificial Intelligence  
-  - State-of-the-Art Research Papers  
-  - Review & Survey Papers  
-  - Datasets  
+- [Artificial Intelligence](#-artificial-intelligence)  
+  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-ai)  
+  - [Review & Survey Papers](#review--survey-papers-ai)  
+  - [Datasets](#datasets-ai)  
 
-- Cloud Computing  
-  - State-of-the-Art Research Papers  
-  - Review & Survey Papers  
-  - Datasets  
+- [Cloud Computing](#-cloud-computing)  
+  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-cloud)  
+  - [Review & Survey Papers](#review--survey-papers-cloud)  
+  - [Datasets](#datasets-cloud)  
 
-- Cyber Security  
-  - State-of-the-Art Research Papers  
-  - Review & Survey Papers  
-  - Datasets  
+- [Cybersecurity](#-cybersecurity)  
+  - [State-of-the-Art Research Papers](#state-of-the-art-research-papers-cyber)  
+  - [Review & Survey Papers](#review--survey-papers-cyber)  
+  - [Datasets](#datasets-cyber)  
 
 ---
 
 ## 🤖 Artificial Intelligence  
 
 ### State-of-the-Art Research Papers (AI)  
+<a name="state-of-the-art-research-papers-ai"></a>  
 - *Add papers here*  
 
 ### Review & Survey Papers (AI)  
+<a name="review--survey-papers-ai"></a>  
 - *Add papers here*  
 
 ### Datasets (AI)  
+<a name="datasets-ai"></a>  
 - *Add datasets here*  
 
 
