@@ -8,7 +8,6 @@
 
 📄 [Research Papers & Datasets](https://github.com/fazlehannan/research-papers-datasets) – curated research papers and datasets  
 📘 [Books & Notes](https://github.com/fazlehannan/books-notes) – study books and notes  
-🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics) – tools for research & academic workflow  
 
 ---
 
